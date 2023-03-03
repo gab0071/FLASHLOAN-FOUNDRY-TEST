@@ -1,5 +1,4 @@
 # Trying a Flashloan with Foundry
-<a href="https://github.com/catellaTech/FLASHLOAN-FOUNDRY-TEST/actions/workflows/test.yml"><img src="https://travis-ci.org/mpaland/printf.svg?branch=master"></a>
 <a href="https://github.com/catellaTech" target="_blank">
     <img alt="Author" src="https://img.shields.io/badge/made%20by-CatellaTech-blueviolet?style=flat-square">
   </a>
